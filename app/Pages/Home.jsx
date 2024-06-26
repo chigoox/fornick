@@ -3,7 +3,7 @@ import React from 'react'
 
 function Home() {
     return (
-        <div className='h-full flex md:flex-row flex-col w-full pt-[7.8rem] bg-black'>
+        <div className='h-full flex md:flex-row flex-col w-full mt-64 bg-black'>
             <div className='h-full w-full center-col md:w-1/2 p-2 bg-white items-center'>
                 <h1 className='text-8xl text-center font-bold text-black'>Angie's Sweets</h1>
                 <h1 className='text-xl text-center font-bold bg-pink-500 rounded-lg text-white'>Indulge Your Cravings, Anytime, Anywhere!</h1>
