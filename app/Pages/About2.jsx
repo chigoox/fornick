@@ -24,7 +24,7 @@ function About2() {
                 With Angie's Sweets, you’re not just getting a snack – you’re getting a service that treats you like family. Proudly serving communities
                 across New Jersey, we invite you to experience the difference of our personalized vending solutions.
             </p>
-            <p className='mb-14 text-pink-400'>
+            <p className='mb-96 text-pink-400'>
                 Contact us today to enjoy our delicious and affordable offerings, delivered with a touch of hometown care!
 
             </p>
